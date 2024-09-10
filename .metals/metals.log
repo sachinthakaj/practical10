@@ -1,0 +1,38 @@
+2024.09.10 08:01:35 INFO  Started: Metals version 1.3.3 in folders 'C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\practical10' for client Visual Studio Code 1.93.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@423496aa]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@78681bc5]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@423496aa]
+2024.09.10 08:01:36 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.10 08:01:37 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\practical10\p10.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 10, 2024 8:01:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2024.09.10 08:01:36 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\practical10\p10.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.10 08:01:38 INFO  Running List(C:\Users\Sachinthaka\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\practical10)
+2024.09.10 08:01:38 INFO  Attempting to connect to the build server...
+2024.09.10 08:01:38 INFO  Running BSP server List(C:\Users\Sachinthaka\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\practical10\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\practical10\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\practical10\.scala-build\ide-envs.json, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\practical10)
+2024.09.10 08:01:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\practical10\.metals\bsp.trace.json or C:\Users\Sachinthaka\AppData\Local\scalameta\metals\cache\bsp.trace.json
+Sep 10, 2024 8:01:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2024.09.10 08:01:42 WARN  Could not find semantic tokens for: file:///C:/Users/Sachinthaka/OneDrive/Desktop/2Y%20SEM1/Functional%20Programming/practical10/p10.scala
+2024.09.10 08:01:42 INFO  BSP server: Starting compilation server
+2024.09.10 08:01:42 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\practical10\p10.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.10 08:01:44 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\practical10\p10.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.10 08:01:44 WARN  Could not find semantic tokens for: file:///C:/Users/Sachinthaka/OneDrive/Desktop/2Y%20SEM1/Functional%20Programming/practical10/p10.scala
+2024.09.10 08:01:45 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\practical10\p10.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.10 08:01:45 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\practical10\p10.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.10 08:01:46 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\practical10\p10.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.10 08:01:48 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\practical10\p10.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.10 08:01:48 WARN  Could not find semantic tokens for: file:///C:/Users/Sachinthaka/OneDrive/Desktop/2Y%20SEM1/Functional%20Programming/practical10/p10.scala
+2024.09.10 08:01:50 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\practical10\p10.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.10 08:01:51 INFO  time: Connected to build server in 12s
+2024.09.10 08:01:51 INFO  Connected to Build server: scala-cli v1.4.1
+2024.09.10 08:01:52 INFO  compiling practical10_400e808088 (1 scala source)
+2024.09.10 08:01:52 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\practical10\p10.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.10 08:01:52 WARN  Could not find semantic tokens for: file:///C:/Users/Sachinthaka/OneDrive/Desktop/2Y%20SEM1/Functional%20Programming/practical10/p10.scala
+2024.09.10 08:01:54 INFO  time: Imported build in 3.11s
+2024.09.10 08:01:54 INFO  running doctor check
+2024.09.10 08:01:54 INFO  java targets: practical10_400e808088, practical10_400e808088-test
+2024.09.10 08:02:05 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.10 08:02:07 INFO  time: indexed workspace in 13s
